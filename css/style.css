@@ -43,7 +43,10 @@ div{
 	margin-top: 20px;
 }
 .mypicture{
-
+	display: inline-block;
+	width:54px;
+	height:56px;
+	
 }
 .name{
 	display: inline-block;	
@@ -87,8 +90,8 @@ div{
 /*	color: #0F84CF;*/
 }
 .divimage{
-	margin-top: 10px;
-	margin-bottom: 20px;
+	margin-top: 1px;
+	margin-bottom: 10px;
 }
 .image{
 	width: auto;
